@@ -1,8 +1,4 @@
-print("Hello World Mr DIY")
-print("Lower Prices, Better Quality")
-print("Hye")
-print("Mr DIY")
-print("New Year")
-print("Bye")
-print("See you soon")
-print("dark mode")
+print("The Days")
+print("are")
+print("best")
+
